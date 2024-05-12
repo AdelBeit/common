@@ -1,4 +1,4 @@
-# Compilation of websites and resources I frequently access
+# Frequently needed tools/resources
 
 ## Tools for developing with SVGs
 
